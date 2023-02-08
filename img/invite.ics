@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Open-Xchange//8.8.44//EN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+LAST-MODIFIED:20230104T023643Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZNAME:IST
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20230205T114928Z
+ATTENDEE;CN=shrutivishwakarma0509;PARTSTAT=NEEDS-ACTION;CUTYPE=INDIVIDUAL;E
+ MAIL=shrutivishwakarma0509@gmail.com:mailto:shrutivishwakarma0509@gmail.co
+ m
+ATTENDEE;CN=Simit  Bhagat;PARTSTAT=ACCEPTED;CUTYPE=INDIVIDUAL;EMAIL=simitb@
+ simitbhagatstudios.com:mailto:simitb@simitbhagatstudios.com
+CLASS:PUBLIC
+CREATED:20230205T114928Z
+DESCRIPTION:Simit Bhagat Studios is inviting you to a scheduled Zoom meetin
+ g.\n\nTopic: Simit Bhagat Studios's Personal Meeting Room\n\nJoin Zoom Mee
+ ting\nhttps://us06web.zoom.us/j/4010487248?pwd=Y09yNVVIV0gvT3B1OGNqTTMrbVp
+ hZz09\n\nMeeting ID: 401 048 7248\nPasscode: 8NPaFp
+DTEND;TZID=Asia/Kolkata:20230206T150000
+DTSTART;TZID=Asia/Kolkata:20230206T140000
+LAST-MODIFIED:20230205T114928Z
+LOCATION:Zoom 
+ORGANIZER;CN=Simit  Bhagat;EMAIL=simitb@simitbhagatstudios.com:mailto:simit
+ b@simitbhagatstudios.com
+SEQUENCE:0
+SUMMARY:Re: Internshala Interview (Web Developer) 
+TRANSP:OPAQUE
+UID:19d3d634-22a9-4f54-bf11-cac9aa8004f3
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR
